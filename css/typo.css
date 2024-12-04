@@ -1,0 +1,18 @@
+.d1 {
+            font-family: var(--fontFamily, Roboto);
+font-size: 40px;
+line-height: 125% /* 50px */;
+letter-spacing: 0.46px;
+          } 
+.d3 {
+            font-family: var(--fontFamily, Roboto);
+font-size: 60px;
+line-height: 125% /* 75px */;
+letter-spacing: 0.46px;
+          } 
+.d2 {
+            font-family: var(--fontFamily, Roboto);
+font-size: 50px;
+line-height: 125% /* 62.5px */;
+letter-spacing: 0.46px;
+          } 
