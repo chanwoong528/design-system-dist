@@ -3,7 +3,7 @@
 
         const typo = ({children, tag, ...restProps}) => {
 
-        const cssList = ["b2","b1","d1","d3","d2"];
+        const cssList = ["b5","b4","b3","b2","b1","d1","d3","d2"];
         const css = restProps.className ? restProps.className : cssList[0];
      
         if (!!tag) {
