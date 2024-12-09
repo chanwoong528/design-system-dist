@@ -10,7 +10,7 @@
           return React.createElement(tag, {...restProps,className: css }, children);
         }
 
-        return <p {...restProps}>{children}</p>;
+        return <p {...restProps,className: css }>{children}</p>;
         };
         export default typo;
       
