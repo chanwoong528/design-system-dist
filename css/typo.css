@@ -1,3 +1,9 @@
+.b1 {
+            font-family: var(--fontFamily, Roboto);
+font-size: 21px;
+line-height: 125% /* 26.25px */;
+letter-spacing: 0.46px;
+          } 
 .d1 {
             font-family: var(--fontFamily, Roboto);
 font-size: 40px;
